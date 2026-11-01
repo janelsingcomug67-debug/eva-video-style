@@ -1,0 +1,3 @@
+/* 竖屏 1080×1920：在 engine.css 之后加载，把舞台改成竖的 */
+html, body { width: 1080px; height: 1920px; }
+#stage { width: 1080px; height: 1920px; }
